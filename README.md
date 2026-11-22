@@ -8,7 +8,8 @@ One 1024×1024 page that sums up Saturday 21 November 2026: nine flat-vector
 picture panels, eighteen one-line briefs, and a date-check ledger that shows
 what was deliberately left out and what had not happened yet.
 
-The competition is on make.fun: <https://make.fun/c/news-image-20261121>.
+The competition is on make.fun: <https://make.fun/bounty/news-image-20261121>
+(the contest page: <https://make.fun/c/news-image-20261121>).
 
 ## What it draws
 
